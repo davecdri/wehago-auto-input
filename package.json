@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/davecdri/wehago-auto-input#readme",
   "dependencies": {
-    "nodemon": "^2.0.19",
     "selenium-webdriver": "^4.3.1"
   }
 }
